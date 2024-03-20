@@ -18,7 +18,7 @@ _Figure 3: Categories Table_
 
 
 ## Data Sources
-All online banking and credit card sites typically allow transaction data to be downloaded in csv format. However, all these .csv files come in different formats, so I had to convert them manually to a standard format. Not all files contained category information either, and if they did, the categories were slightly different to mine. So, I would also manually categorize each transaction. This process generally took me 20-30 minutes each month.
+All online banking and credit card sites typically allow transaction data to be downloaded in csv format. However, all these csv files come with different organization, so I had to convert them manually to a standard format. Not all files contained category information either, and if they did, the categories were slightly different to mine. So, I would also manually categorize each transaction. This process generally took me 20-30 minutes each month.
 
 The standard csv format for import:
 date (yyyy-mm-dd) | description | amount | category_code | account_name
