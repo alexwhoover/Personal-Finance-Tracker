@@ -5,12 +5,10 @@ After graduating university and getting proper income, I needed a way to keep tr
 The project: to create a database to track all transactions across multiple accounts and credit cards, then create a visual dashboard to gain insights into my spending.
 
 ## Methodology
-I used SQLite3 to create a relational database called tracker.db. This database includes information on all my transactions, accounts, and spending categories. See _Figure 1_ for the entity relationship diagram of this database. The accounts table includes information on my chequing account, investment account, and credit cards. The categories table includes the spending categories that I personally wanted.
+I used SQLite3 to create a relational database called tracker.db. This database includes information on all my transactions, accounts, and spending categories. See _Figure 1_ for the entity relationship diagram of this database. The accounts table includes information on my chequing account, investment account, and credit cards. The categories table includes the spending categories that I personally wanted. I then used Power BI to visualize the data and gain insights into where I can cut back my spending.
 
 _Figure 1: E-R Diagram_
 ![image](https://github.com/alexwhoover/Personal-Finance-Tracker/assets/160429258/b42126a6-a59b-41ba-b0b8-de4a6b5934d9)
-
-I then used Power BI to visualize the data and gain insights into where I can cut back my spending.
 
 _Figure 2: Accounts Table_
 ![image](https://github.com/alexwhoover/Personal-Finance-Tracker/assets/160429258/80b9a95c-673e-4655-bb5d-7e9a4d41c733)
